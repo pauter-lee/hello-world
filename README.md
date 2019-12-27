@@ -2,7 +2,9 @@
 text develop
 delete text
 
-master add
+master delete
 
-dev add
+dev delete
+
+
 
