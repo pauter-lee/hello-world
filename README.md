@@ -6,5 +6,6 @@ master delete
 
 dev delete
 
+fetch
 
 
